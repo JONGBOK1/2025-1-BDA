@@ -3,4 +3,4 @@
 
 ## 온라인 출석과 수업 참여
 - [B반 수요일 오후](https://docs.google.com/spreadsheets/d/1poMied2-XKLzt-0Ngfbf9sF4BNnrC8WfkYNEkqyveSg/edit?usp=sharing)
-- [A반 월요일 오전]()
+- [A반 월요일 오후]()
