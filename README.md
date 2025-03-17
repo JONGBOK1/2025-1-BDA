@@ -3,7 +3,7 @@
 
 ## 온라인 출석과 수업 참여
 - [B반 수요일 오후](https://docs.google.com/spreadsheets/d/1poMied2-XKLzt-0Ngfbf9sF4BNnrC8WfkYNEkqyveSg/edit?usp=sharing)
-- [A반 월요일 오후]()
+- [A반 월요일 오후](https://docs.google.com/spreadsheets/d/1N8uAN8wdkesqQDgUMj6BYm1ZH_T5Vr_xAnqdUs2YVHk/edit?usp=sharing)
 
 ## Google Colab 셀 복사 및 붙여넣기 단축키
 
