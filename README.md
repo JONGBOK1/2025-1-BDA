@@ -5,6 +5,23 @@
 - [B반 수요일 오후](https://docs.google.com/spreadsheets/d/1poMied2-XKLzt-0Ngfbf9sF4BNnrC8WfkYNEkqyveSg/edit?usp=sharing)
 - [A반 월요일 오후](https://docs.google.com/spreadsheets/d/1N8uAN8wdkesqQDgUMj6BYm1ZH_T5Vr_xAnqdUs2YVHk/edit?usp=sharing)
 
+## 타이타닉 열(변수) 설명
+- survived : 0 = 사망, 1 = 생존
+- pclass : 1 = 1등석, 2 = 2등석, 3 = 3등석
+- sex : male = 남성, female = 여성
+- age : 나이
+- sibsp : 타이타닉 호에 동승한 자매 / 배우자의 수
+- parch : 타이타닉 호에 동승한 부모 / 자식의 수
+- fare : 티켓 요금
+- embarked : 탑승지, C = 셰르부르, Q = 퀸즈타운, S = 사우샘프턴
+- class : First = 1등석, Second = 2등석, Third = 3등석
+- who : 남/여/아이, 'man', 'woman', 'child'
+- adult_male : 남자 어른, True/False
+- deck : 방 위치, 'A', 'B', 'C', 'D', 'E', 'F', 'G', NaN
+- embark_town : 탑승지
+- alive : 생존, yes/no
+- alone : 1인 탑승, True/False
+
 ## Google Colab 셀 복사 및 붙여넣기 단축키
 
 - 🔹 셀 복사 & 붙여넣기 단축키
