@@ -22,6 +22,9 @@
 - alive : 생존, yes/no
 - alone : 1인 탑승, True/False
 
+### deck(방 위치)
+- ![image](https://github.com/user-attachments/assets/8be11782-751f-4934-ac37-57930fbbc1f3)
+
 ## Google Colab 셀 복사 및 붙여넣기 단축키
 
 - 🔹 셀 복사 & 붙여넣기 단축키
